@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color: azure;
+    align-items: center;
+}
+
+h1{
+    color: #14de;
+
+}
+
+p{
+    font-size: large;
+    color: #111;
+    margin-bottom: 16px;
+}
+input {
+    width: 40%;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+button{
+    color: #eee;
+    background-color: #14de;
+    border-radius: 8px;
+    margin-bottom: 20px;
+
+}
