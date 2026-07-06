@@ -34,3 +34,9 @@ button{
     transform: scaleZ(0.3);
 
 }
+
+article{
+    font-size: medium;
+    color: #dc143d;
+    margin-top: 50px;
+}
