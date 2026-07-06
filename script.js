@@ -8,5 +8,5 @@ button.addEventListener("click",function(){
         return;
     }
     let age = 2026 - birthyear;
-    result.textContent = "Your age is " + age ;
+    result.textContent = "Your age is " + age + "." ;
 })
